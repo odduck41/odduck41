@@ -23,7 +23,7 @@ I am a passionate programmer with a wide range of interests, from data science a
 - English
 
 ## Get In Touch 📫
-My telegram - @totelega \\
+My telegram - @totelega \
 My e-mail - lev.dymchenko.07@bk.ru
 
 <!--
