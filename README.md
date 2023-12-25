@@ -11,7 +11,7 @@ I am a passionate programmer with a wide range of interests, from data science a
 - Game programming
 - Olympiad programming
 
-## Programming Languages 🔥
+## Technologies 🔥
 - C++
 - C
 - Python
