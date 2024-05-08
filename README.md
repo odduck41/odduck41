@@ -1,14 +1,3 @@
-<style>
-    .link{
-        color: #000 !important;
-        text-decoration: none;
-        user-select: none;
-    }
-    img {
-        user-select: none;
-    }
-</style>
-
 <h1 align="center">Hi there👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
 <h2>About me</h2>
