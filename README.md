@@ -6,17 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odduck41&theme=kimbie_dark" alt="odduck41" /></a> </p>
 <h2>Get In Touch📫</h2>
 
-<a href="https://t.me/totelega" class = "link" draggable="false">
-<img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false">
-</a>
+[<img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false">](https://t.me/totelega)
+[<img src="codeforces.svg" alt = "codeforces" width = "50px" draggable="false">](https://codeforces.com/profile/odduck41)
+[<img src="email.svg" alt = "email" width="50px" draggable="false">](mailto:gd.cats.creators@gmail.com)
 
-<a href="https://codeforces.com/profile/odduck41" class = "link" draggable="false">
-<img src="codeforces.svg" alt = "codeforces" width = "50px" draggable="false">
-</a>
-
-<a href="mailto:gd.cats.creators@gmail.com" class = "link" draggable="false">
-<img src="email.svg" alt = "email" width="50px" draggable="false">
-</a>
 
 <p style="padding:10px"></p>
 <h2>Technologies🔥</h2>
