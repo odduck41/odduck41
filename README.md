@@ -3,6 +3,7 @@
 <h2>About me</h2>
 <div style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</div>
 <p style="padding:10px"></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odduck41&theme" alt="odduck41" /></a> </p>
 <h2>Get In Touch📫</h2>
 
 <a href="https://t.me/totelega" class = "link" draggable="false">
