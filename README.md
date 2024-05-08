@@ -30,9 +30,9 @@
 
 <h2>Other🎄</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=odduck41&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=odduck41&show_icons=true&theme=ambient_gradient"/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=odduck41&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=odduck41&show_icons=true&locale=en&layout=compact&theme=ambient_gradient"/>
 
 <h2>Languages Spoken 🌈</h2>
 <h3>Russian (native)</h3>
