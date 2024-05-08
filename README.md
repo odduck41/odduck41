@@ -21,11 +21,11 @@
 <p style="padding:10px"></p>
 <h2>Technologies🔥</h2>
 
-<img src="c++.svg" width = "50px" draggable="false">
-<img src = "python.svg" width = "50px" draggable="false">
-<img src = "html.svg" width = "50px" draggable="false">
-<img src = "css.svg" width = "50px" draggable="false">
-<img src = "qt.svg" width = "50px" draggable="false">
+<a><img src="c++.svg" width = "50px" draggable="false"></a>
+<a><img src = "python.svg" width = "50px" draggable="false"></a>
+<a><img src = "html.svg" width = "50px" draggable="false"></a>
+<a><img src = "css.svg" width = "50px" draggable="false"></a>
+<a><img src = "qt.svg" width = "50px" draggable="false"></a>
 
 
 <h2>Other🎄</h2>
