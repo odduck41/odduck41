@@ -1,42 +1,49 @@
-# Welcome to my GitHub profile! ✨
+<style>
+    .link{
+        color: #000 !important;
+        text-decoration: none;
+        user-select: none;
+    }
+    img {
+        user-select: none;
+    }
+</style>
 
-## About Me 🤡
-I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.
+<h1 align="center">Hi there👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
+<h2>About me</h2>
+<div style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</div>
+<p style="padding:10px"></p>
+<h2>Get In Touch📫</h2>
 
-## What I'm Interested In 🎄
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Low-level programming
-- Game programming
-- Competitive programming
+<a href="https://t.me/totelega" class = "link" draggable="false">
+<img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false">
+</a>
 
-## Technologies 🔥
-- C++
-- C
-- Python
-- HTML
-- CSS
+<a href="https://codeforces.com/profile/odduck41" class = "link" draggable="false">
+<img src="codeforces.svg" alt = "codeforces" width = "50px" draggable="false">
+</a>
 
-## Languages Spoken 🌈
-- Russian (native)
-- English
+<a href="mailto:gd.cats.creators@gmail.com" class = "link" draggable="false">
+<img src="email.svg" alt = "email" width="50px" draggable="false">
+</a>
 
-## Get In Touch 📫
-My telegram - @totelega \
-My e-mail - lev.dymchenko.07@bk.ru
+<p style="padding:10px"></p>
+<h2>Technologies🔥</h2>
 
-<!--
-**odduck41/odduck41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="c++.svg" width = "50px" draggable="false">
+<img src = "python.svg" width = "50px" draggable="false">
+<img src = "html.svg" width = "50px" draggable="false">
+<img src = "css.svg" width = "50px" draggable="false">
+<img src = "qt.svg" width = "50px" draggable="false">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Other🎄</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=odduck41&show_icons=true&theme=chartreuse-dark"/>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=odduck41&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+
+<h2>Languages Spoken 🌈</h2>
+<h3>Russian (native)</h3>
+<h3>English</h3>
