@@ -1,8 +1,11 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=800&color=4D77F7FF&center=true&random=false&width=435&height=80&lines=Hi+there%F0%9F%91%8B;I+am+Leo!" alt="Hi there%F0%9F%91%8B" />
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p></a>
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=800&color=4D77F7FF&center=true&random=false&width=435&height=80&lines=Hi+there%F0%9F%91%8B;I+am+Leo!" alt="Hi there%F0%9F%91%8B" />
+</a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
 </p>
 <h2>About me</h2>
-<div style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</div>
+<span style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</span>
 <p style="padding:10px"></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odduck41&theme=kimbie_dark" alt="odduck41" /></a> </p>
 <h2>Get In Touch📫</h2>
@@ -25,8 +28,8 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=odduck41&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
 
-<h2>Languages Spoken🌈</p></h2>
-<h3>Russian (native)</h3>
+<h2>Languages Spoken🌈</h2>
+<h3>Russian(native)</h3>
 <h3>English</h3>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1000&color=F7870DFF&center=true&random=false&width=435&height=80&lines=That's+all!" alt="Hi there%F0%9F%91%8B" /></p>
 <p align="center"><img src = "cat.gif" width="250px" alt = ""/>
