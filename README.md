@@ -1,8 +1,8 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=A0F72F&center=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B;I+am+Leo!" alt="Hi there%F0%9F%91%8B" /></a>
-</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=800&color=A0F72F&center=true&random=false&width=435&height=80&lines=Hi+there%F0%9F%91%8B;I+am+Leo!" alt="Hi there%F0%9F%91%8B" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p></a>
+</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
 <h2>About me</h2>
 <div style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</div>
 <p style="padding:10px"></p>
