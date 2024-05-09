@@ -16,7 +16,7 @@
 </p>
 
 <p style="padding:10px"></p>
-<h2>Technologies🔥</h2>
+<h2>🔥Technologies & Instruments⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,clion,visualstudio,qt,cmake,py,vim,vscode,arch,windows,bash,c,html,css,go,github,git,stackoverflow,obsidian,replit&perline=5" />
