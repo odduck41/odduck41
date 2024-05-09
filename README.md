@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=odduck41" alt="odduck41" /> </p>
 <h2>About me</h2>
 <div style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</div>
 <p style="padding:10px"></p>
