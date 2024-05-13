@@ -7,7 +7,7 @@
 <h2>About me</h2>
 <span style="font-size:16px">I am a passionate programmer with a wide range of interests, from data science and machine learning to low-level programming and game development. I also have a background in Competitive programming and love to tackle challenging problems.</span>
 <p style="padding:10px"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odduck41&theme=transparent" alt="odduck41" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odduck41&theme=buddhism&no-frame=true" alt="odduck41" /></a> </p>
 <h2>Get In Touch📫</h2>
 <p align="center">
   <a href="https://t.me/totelega"><img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false"></a>
