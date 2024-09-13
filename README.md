@@ -13,6 +13,7 @@
   <a href="https://t.me/totelega"><img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false"></a>
   <a href="https://codeforces.com/profile/odduck41"><img src="codeforces.svg" alt = "codeforces" width = "50px" draggable="false"></a>
   <a href="mailto:gd.cats.creators@gmail.com"><img src="email.svg" alt = "email" width="50px" draggable="false"></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src = "yt.svg" alt = "youtube" width="50px" draggable="false"></a>
 </p>
 
 <p style="padding:10px"></p>
