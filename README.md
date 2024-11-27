@@ -25,15 +25,15 @@
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=odduck41&show_icons=true&theme=rose_pine"/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=odduck41&show_icons=true&locale=en&layout=compact&theme=rose_pine"/>
-<p style="padding:10px"></p>
+&nbsp;
 
 <!--h2>Languages Spoken🌈</h2>
 <h3>Russian(native)</h3>
 <h3>English</h3>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1000&color=F7870DFF&center=true&random=false&width=435&height=80&lines=That's+all!" alt="Hi there%F0%9F%91%8B" /></p>
 <p align="center"><img src = "cat.gif" width="250px" alt = ""/-->
-<h2 align = "right">📫Get In Touch📭</h2>
-<p align="left">
+<h2>📫Get In Touch📭</h2>
+<p align="center">
   <a href="https://t.me/totelega"><img src = "telegram.svg" alt = "telegram" width = "50px" draggable="false"></a>
   <a href="https://codeforces.com/profile/odduck41"><img src="codeforces.svg" alt = "codeforces" width = "50px" draggable="false"></a>
   <a href="mailto:gd.cats.creators@gmail.com"><img src="email.svg" alt = "email" width="50px" draggable="false"></a>
